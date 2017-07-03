@@ -1,0 +1,30 @@
+#game{
+	float:left;
+	right:100px;
+}
+
+#scorebard{
+	position: absolute;
+	float:right;
+	text-align:right;
+	font-size: 3em;
+	font-weight: bold;
+	font-variant: small-caps;
+	left: 200px;
+	top: 0px;
+	right: 0px;
+	bottom: 0px;
+}
+
+#scores{
+
+	float:right;
+	position: absolute;
+	font-size: 2em;
+	font-weight: bold;
+	font-variant: small-caps;
+	left: 1000px;
+	top: 0px;
+	right: 50px;
+	bottom: 0px;
+}
